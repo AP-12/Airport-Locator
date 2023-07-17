@@ -13,6 +13,9 @@
 #Technologies Used
 
 #Frontend: React.js
+
 #Backend: Node.js, Express.js
+
 #Database: MongoDB
+
 #External API: Amadeus API (for airport data)
